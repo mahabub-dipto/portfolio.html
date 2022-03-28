@@ -1,0 +1,95 @@
+
+*{
+   margin-left: 0px;
+   font-family:'Noto Serif', serif;
+
+}
+h1{
+    font-size: 35px;
+    margin-left: 60px;
+
+}
+ h3{
+    margin-left: 50px;
+
+     font-size: 20px;
+ }
+ .gradient{
+     font-size: 35px;
+     margin-left: 50px;
+     color: orange;
+     margin-left: -10px; 
+ }
+
+
+ 
+ .flexable-container{
+     display: flex;
+    
+    
+ }
+ .half-width{
+    width: 80%;
+    margin-top: 50px;
+ }
+ .half-width img{
+     width: 60%;
+   padding-left: 80px;
+
+ }
+ p{
+   
+     font-size: 14px;
+     margin-left:50px;
+
+ }
+ a{
+    background: linear-gradient(tomato ,red) ;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 9px;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 50px;
+    margin-top: 25px;
+ }
+ .top-banner{
+     background-image: url(img/top-banner\ -\ Copy.png);
+     background-repeat: no-repeat;
+     width: 100%;
+ }
+ span{
+     color: darkgoldenrod;
+ }
+ 
+ .xp{
+     font-size: 52px;
+     margin-top: 80px;
+     font-weight: 700;
+ }
+
+ .middle-banner{
+     background-image: url(img/dream-bg.png);
+     background-repeat: no-repeat;
+     width: 100%;
+     background-position: bottom right ;
+     background-size: 72px;
+ }
+ .web{
+     box-shadow: 11px 5px 10px cyan;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-left: 5px;
+    
+   
+ }
+ .reason{
+     margin-left: 4px;
+ }
+ 
+ .last-banner{
+     background-image: url(img/exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left bottom;
+     background-size: 72px;
+ }
